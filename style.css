@@ -139,16 +139,25 @@ html::-webkit-scrollbar-thumb,
 
 .fa-w-16 { 
 
-  margin-right: 16px; 
+  margin-right: 16px !important; 
+font-size:20px !important;
 
 } 
 .fa-w-14 {
-margin-right: 18px;
+margin-right: 16px !important;
+font-size:20px !important;
 }
 .fa-w-18 {
-margin-right: 16px;
+margin-right: 16px !important;
+font-size:20px !important;
 }
-
+.svg-inline--fa.fa-w-18 {
+    width: 1em !important;
+}
+.material-icons{
+margin-right: 14px !important;
+font-size:20px !important;
+}
 
 .adobe-logo{ 
 
